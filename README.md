@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @infinitepb.
-- 👀 I’m interested in android and web development.
-- 🌱 I’m currently learning android studio and Node.js.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to learn all the basics, as well as the latest trends.
 
 <!---
